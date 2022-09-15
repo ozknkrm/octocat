@@ -1,1 +1,9 @@
-Bienvenidos a Octocat!
+Bienvenidos a Octocat! Un divertido juego interactivo para aprender Git y GitHub!
+
+Octocat se ha quedado atrapado en el árbol.
+
+Octocat está maullando con sus ocho tentáculos atrapados en las ramas.
+
+Debéis ir liberando uno a uno cada uno de sus tentáculos. 
+
+Para poder liberar al Octocat deberéis superar diferentes pruebas y con las herramientas adecuadas conseguir liberarlo y poder llegar hasta él.
