@@ -10,3 +10,8 @@ No sin antes haceros pensar. Los humanos no pensáis mucho. Os diré qué rama e
 😀 ACERTIJO:
 Mi hija tiene varias hermanas. Tiene tantas hermanas como hermanos. Cada uno de los hermanos tiene el doble de hermanas que de hermanos.
 ¿Sabrías decir cuántos hijos e hijas tengo?
+
+Pista de apoyo...
+
+Unz vez habéis acertado el acertijo y sabéis la rama a la que tenéis que dirigiros, es hora de moveros!
+Git dispone de un comando para moverse entre ramas. Averigua cuál es y utilizalo para desplazarte a la rama objetivo.
