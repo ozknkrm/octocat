@@ -1,0 +1,4 @@
+Al llegar a la rama manzanas, observais que delante de vosotros hay dos ramas, tenemos que subir a la rama que nos permita llegar más fácilmente
+a la siguiente. Para eso, hemos sido precavid@s y hemos traído herramientas en nuestras mochilas. 
+¿Cómo las podremos utilizar? Dividíos en grupos para buscar pistas en las ramas, entre ambos equipos podréis “fusionar” opciones
+y encontrar la solución a vuestro dilema. ¡Ya se oyen mucho más cerca los maullidos lastimeros del pobre Octocat!
