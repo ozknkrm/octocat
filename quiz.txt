@@ -2,4 +2,4 @@ Ya tenéis al Octocat a la vista , pero para poder acabar de liberarlo Ridmi os 
 
 ¡Enhorabuena ya teneis todas las herramientas para liberar al Octocat!
 
-https://guillerdev97.github.io/octocat-quiz-vanilla-js/
+https://guillerdev97.github.io/octocat-quiz-js/
