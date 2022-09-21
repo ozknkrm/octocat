@@ -1,1 +1,5 @@
- https://guillerdev97.github.io/java-quiz-vanilla-js/
+Ya tenéis al Octocat a la vista , pero para poder acabar de liberarlo Ridmi os hara unas preguntas a ver cuanto habéis aprendido hasta ahora .
+
+¡Enhorabuena ya teneis todas las herramientas para liberar al Octocat!
+
+https://guillerdev97.github.io/octocat-quiz-vanilla-js/
