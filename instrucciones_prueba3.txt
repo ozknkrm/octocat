@@ -8,4 +8,4 @@ Parece que habéis irrumpido de lleno en su casa. Por encima de la entrada, hay 
 
 Pista de apoyo...
 
-En esta prueba, como equipo, debéis acceder al archivo README.md y editar dicho archivo con el nombre del equipo y los integrantes que lo forman.
+En esta prueba, como equipo, debéis acceder a "RIDMI" y editarlo con el nombre del equipo y los integrantes que lo forman.
