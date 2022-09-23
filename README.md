@@ -1,8 +1,8 @@
 # RIDMI
 
-✍️ Nombre del equipo:
+✍️ Nombre del equipo: Power Girls
 
-✍️ Integrantes del equipo:
+✍️ Integrantes del equipo: Susy y Patricia
 
 EY EY EY! AQUÍ TENÉIS LAS INSTRUCCIONES DE LA PRUEBA 4!!!
 
