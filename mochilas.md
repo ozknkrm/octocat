@@ -7,8 +7,8 @@
 <p> Le damos la vuelta y aparece… ¿UN MARTILLO? 🔨 ¿Qué clase de mezcla es esta? </p>
 
 ¿Os queréis llevar estas cosas?
-HERRAMIENTA CONVENCIONAL 🩹
+HERRAMIENTA CONVENCIONAL ⚙️
 
-HERRAMIENTA MÁGICA 🎗️
+HERRAMIENTA MÁGICA 🪄
 
-UN TROZO DE CUERDA 🔨
+UN TROZO DE CUERDA 🎗️
