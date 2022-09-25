@@ -1,0 +1,7 @@
+<p> Una de las mochilas es enorme, de color rojo, al fondo encontramos paquetes de pañuelos, un mechero y ¡un montón de pipas tiradas por ahí! De aquí poco vamos a sacar, solo ha aparecido CINTA ADHESIVA 🩹, que probablemente nos puede ser útil. </p>
+
+<p> En la segunda mochila, más pequeña y azul, hay un montón de cosas perfectas para ir de acampada, como una cantimplora, una lupa y un mapa, así que no nos van a servir de mucho. </p>
+
+<p> En uno de los bolsos laterales hay un TROZO DE PLÁTANO 🍌, ¡eso sí! Pasamos a una tercera mochila que tiene muchísimos papeles, bolígrafos, un libro a punto de romperse, ¡qué desastre! Aquí no parece haber nada que podamos utilizar, pero pesa muchísimo… </p>
+
+<p> Le damos la vuelta y aparece… ¿UN MARTILLO? 🔨 ¿Qué clase de mezcla es esta? </p>
