@@ -9,6 +9,6 @@
 ¿Os queréis llevar con vosotros estas cosas?
 BRILLO LABIAL 💄
 
-TROZO DE CUERDA 🎗️
+TROZO DE PLÁTANO 🍌
 
 CUCHARA 🥄 
