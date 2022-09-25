@@ -5,3 +5,10 @@
 <p> En uno de los bolsos laterales hay un TROZO DE PLÁTANO 🍌, ¡eso sí! Pasamos a una tercera mochila que tiene muchísimos papeles, bolígrafos, un libro a punto de romperse, ¡qué desastre! Aquí no parece haber nada que podamos utilizar, pero pesa muchísimo… </p>
 
 <p> Le damos la vuelta y aparece… ¿UN MARTILLO? 🔨 ¿Qué clase de mezcla es esta? </p>
+
+¿Os queréis llevar estas cosas?
+CINTA ADHESIVA 🩹
+
+TROZO DE PLÁTANO 🍌
+
+UN MARTILLO 🔨
