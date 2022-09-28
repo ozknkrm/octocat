@@ -1,5 +1,5 @@
 # RIDMI
 
-✍️ Nombre del equipo: 
+✍️ Nombre del equipo: adbfaksjd
 
-✍️ Integrantes del equipo: 
+✍️ Integrantes del equipo: buda, carla
